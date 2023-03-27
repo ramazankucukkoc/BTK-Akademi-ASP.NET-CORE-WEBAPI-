@@ -11,7 +11,7 @@ namespace Repositories.Contracts
     {
 
         IQueryable<Book> GetAll(bool trackChanges);
-        IQueryable<Book> GetOneBookId(int id, bool trackChanges);
+        Book GetOneBookId(int id, bool trackChanges);
         void CreateOneBook(Book book);
         void UpdateOneBook(Book book);
         void DeleteOneBook(Book book);

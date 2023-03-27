@@ -1,0 +1,15 @@
+2023-03-25 13:52:17.8924 Info Message Template Auto Format enabled
+2023-03-25 13:52:18.2010 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-25 13:52:18.2670 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ramazan\source\repos\bsStoreApp\WebApi\nlog.config
+2023-03-25 14:04:22.8888 Info Message Template Auto Format enabled
+2023-03-25 14:04:23.0998 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-25 14:04:23.1614 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ramazan\source\repos\bsStoreApp\WebApi\nlog.config
+2023-03-26 10:06:19.7895 Info Message Template Auto Format enabled
+2023-03-26 10:06:20.0303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-26 10:06:20.0933 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ramazan\source\repos\bsStoreApp\WebApi\nlog.config
+2023-03-27 10:49:45.0858 Info Message Template Auto Format enabled
+2023-03-27 10:49:45.4409 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-27 10:49:45.5266 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ramazan\source\repos\bsStoreApp\WebApi\nlog.config
+2023-03-27 11:33:19.8038 Info Message Template Auto Format enabled
+2023-03-27 11:33:20.0744 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-27 11:33:20.1815 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Ramazan\source\repos\bsStoreApp\WebApi\nlog.config
