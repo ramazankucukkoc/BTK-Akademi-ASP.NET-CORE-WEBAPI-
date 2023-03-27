@@ -1,1 +1,1 @@
-# bsStoreApp
+BTK Akademinde aldıgım eğitimimde şu an güzel ilerlemeler katetmekteyim ve oldukça yeni formatlar ögrendiğim eğitimimde NLog kütüphanesini kullanarak file loglama işlemeri yapmayı ögrendim.Daha sonra ise Exception Handler işlemlerini middleware yaparak devam edildi.Enson şuan da Data Transfer Object(DTO) işlemlerini Automapper kütüphanesini kullanarak veriyi kullanıcıya gösterilmesi gerek işlemelerini tamamlandı. 
